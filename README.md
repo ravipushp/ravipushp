@@ -34,10 +34,10 @@ Building AI Projects • Solving LeetCode Daily • Always Learning
 
 ## 📊 GitHub Stats
 
-  <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ravipushp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ravipushp&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravipushp&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ravipushp&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 ---
@@ -49,10 +49,9 @@ Building AI Projects • Solving LeetCode Daily • Always Learning
 </p>
 
 ---
----
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ravipushp&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ravipushp&theme=onedark&no-frame=true&row=1&column=6"/>
 </p>
