@@ -24,11 +24,33 @@ Building AI Projects • Solving LeetCode Daily • Always Learning
 
 ## 🛠️ Languages & Tools
 
+
 ## 🛠️ Languages & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,git,github,docker,linux,vscode,postgres,mysql,tensorflow,pytorch,opencv,flask,django&perline=7" />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravipushp&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravipushp&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ravipushp&theme=tokyonight"/>
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
 
 ---
 
