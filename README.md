@@ -22,7 +22,6 @@ Building AI Projects • Solving LeetCode Daily • Always Learning
 
 ---
 
-## 🛠️ Languages & Tools
 
 
 ## 🛠️ Languages & Tools
@@ -35,9 +34,10 @@ Building AI Projects • Solving LeetCode Daily • Always Learning
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravipushp&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravipushp&layout=compact&theme=tokyonight"/>
+  <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ravipushp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravipushp&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -45,13 +45,14 @@ Building AI Projects • Solving LeetCode Daily • Always Learning
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ravipushp&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=ravipushp&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
-
-⭐ Thanks for visiting my profile!
-
 ---
 
-⭐ Thanks for visiting my profile!
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ravipushp&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
