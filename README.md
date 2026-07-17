@@ -102,3 +102,82 @@ Building AI Projects • Solving LeetCode Daily • Always Learning
 </a>
 
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🤖 ClassAudit AI
+
+AI-powered classroom monitoring and biometric attendance system.
+
+**Tech Stack**
+
+Python • Django • OpenCV • PostgreSQL • JavaScript
+
+<a href="https://github.com/ravipushp/ClassAudit-AI">
+<img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 📈 Credit Risk Prediction
+
+Machine Learning model to predict customer loan default risk.
+
+**Tech Stack**
+
+Python • XGBoost • Pandas • Scikit-Learn
+
+<a href="https://github.com/ravipushp/Credit-Risk-Prediction">
+<img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🌍 AQI Prediction
+
+Real-Time Air Quality Prediction using Machine Learning.
+
+**Tech Stack**
+
+Python • Pandas • Scikit-Learn
+
+<a href="https://github.com/ravipushp/Real-Time-Air-Quality-Index">
+<img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td>
+
+## ☕ Coffee Sales Dashboard
+
+Interactive Power BI Dashboard.
+
+**Tech Stack**
+
+Power BI • Excel • DAX
+
+<a href="https://github.com/ravipushp/Coffee-Sales-Dashboard">
+<img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
