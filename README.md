@@ -24,13 +24,53 @@ Building AI Projects • Solving LeetCode Daily • Always Learning
 
 
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages and Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,git,github,docker,linux,vscode,postgres,mysql,tensorflow,pytorch,opencv,flask,django&perline=7" />
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript" />
 </p>
 
 ---
+
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+</p>
+
+---
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
+</p>
+
+---
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+
+---
+
+### 🤖 AI / Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+</p>
+
+---
+
+### 🧰 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman" />
+</p>
 
 ## 📊 GitHub Stats
 
