@@ -24,7 +24,11 @@ Building AI Projects • Solving LeetCode Daily • Always Learning
 
 ## 🛠️ Languages & Tools
 
-Python • C++ • SQL • Git • GitHub • Docker • Linux • OpenCV • Power BI
+## 🛠️ Languages & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,git,github,docker,linux,vscode,postgres,mysql,tensorflow,pytorch,opencv,flask,django&perline=7" />
+</p>
 
 ---
 
