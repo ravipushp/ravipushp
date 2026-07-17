@@ -181,3 +181,11 @@ Power BI • Excel • DAX
 </tr>
 
 </table>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/ravipushp/ravipushp/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
