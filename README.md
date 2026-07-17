@@ -62,3 +62,11 @@ Building AI Projects • Solving LeetCode Daily • Always Learning
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravipushp&theme=tokyo-night&hide_border=true"/>
 </p>
+
+---
+
+## 💻 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ravipushp?theme=dark&font=Baloo&ext=heatmap" />
+</p>
