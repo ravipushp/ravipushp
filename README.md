@@ -70,3 +70,11 @@ Building AI Projects • Solving LeetCode Daily • Always Learning
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ravipushp?theme=dark&font=Baloo&ext=heatmap" />
 </p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ravipushp&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
