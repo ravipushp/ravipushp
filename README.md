@@ -183,9 +183,41 @@ Power BI • Excel • DAX
 </table>
 
 ---
+---
+
+# 🌱 Currently Learning
+
+<table>
+<tr>
+<td>
+
+### 📚 Technical Skills
+
+- 🧠 Advanced Data Structures & Algorithms
+- 🤖 Machine Learning
+- 🧩 System Design
+- 🐍 Advanced Python
+- 🌐 Django Backend Development
+
+</td>
+
+<td>
+
+### ⚙️ Tools & Technologies
+
+- 🐳 Docker
+- ☁️ GitHub Actions
+- 🗄️ PostgreSQL
+- 🔥 PyTorch
+- 📊 Power BI
+
+</td>
+</tr>
+</table>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/ravipushp/ravipushp/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
