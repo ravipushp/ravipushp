@@ -90,12 +90,6 @@ Building AI Projects • Solving LeetCode Daily • Always Learning
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ravipushp&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
-</p>
----
 
 ## 📈 Contribution Graph
 
